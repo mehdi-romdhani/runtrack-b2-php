@@ -13,4 +13,4 @@ function my_str_search(string $haystack, string $needle): int
     return $count;
 }
 
-echo (my_str_search('mehdi', 'l'));
+echo(my_str_search('mehdi', 'l'));
