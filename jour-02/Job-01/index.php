@@ -43,7 +43,6 @@ var_dump(find_all_students());
 
 <body>
     <table>
-    <table>
     <tr>
         <th>ID</th>
         <th>Grade ID</th>
